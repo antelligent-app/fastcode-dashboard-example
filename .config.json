@@ -1,6 +1,6 @@
 {
   "scripts": {
     "install": "npm install",
-    "run": "node start"
+    "run": "npm start"
   }
 }
